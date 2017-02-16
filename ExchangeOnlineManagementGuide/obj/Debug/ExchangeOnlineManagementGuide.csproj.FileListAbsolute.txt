@@ -28,6 +28,5 @@ C:\Users\charki\OneDrive - Microsoft\Documents\GitHub\ExchangeOnlineManagementGu
 C:\Users\charki\OneDrive - Microsoft\Documents\GitHub\ExchangeOnlineManagementGuide\ExchangeOnlineManagementGuide\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\charki\OneDrive - Microsoft\Documents\GitHub\ExchangeOnlineManagementGuide\ExchangeOnlineManagementGuide\bin\Microsoft.ApplicationInsights.xml
 C:\Users\charki\OneDrive - Microsoft\Documents\GitHub\ExchangeOnlineManagementGuide\ExchangeOnlineManagementGuide\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\charki\OneDrive - Microsoft\Documents\GitHub\ExchangeOnlineManagementGuide\ExchangeOnlineManagementGuide\obj\Debug\ExchangeOnlineManagementGuide.csprojResolveAssemblyReference.cache
 C:\Users\charki\OneDrive - Microsoft\Documents\GitHub\ExchangeOnlineManagementGuide\ExchangeOnlineManagementGuide\obj\Debug\ExchangeOnlineManagementGuide.dll
 C:\Users\charki\OneDrive - Microsoft\Documents\GitHub\ExchangeOnlineManagementGuide\ExchangeOnlineManagementGuide\obj\Debug\ExchangeOnlineManagementGuide.pdb
